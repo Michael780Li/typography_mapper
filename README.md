@@ -9,5 +9,4 @@ Example:
 </p>
 
 Guided by tutorial:
-
 https://towardsdatascience.com/plotting-regional-topographic-maps-from-scratch-in-python-8452fd770d9d
