@@ -5,5 +5,5 @@ Example:
 
 <p align="center">
   <img src="/Typography_Image_Example(excel).png" width="350"  alt="Example Typography Graph">
-  <img src="/Typography_Image_Example_(matplotlob).png" width="350" alt="Example Excel File">
+  <img src="/Typography_Image_Example(matplotlib).png" width="350" alt="Example Excel File">
 </p>
