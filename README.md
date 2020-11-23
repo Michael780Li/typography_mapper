@@ -7,3 +7,6 @@ Example:
   <img src="/Typography_Image_Example(excel).png" width="350"  alt="Example Typography Graph">
   <img src="/Typography_Image_Example(matplotlib).png" width="350" alt="Example Excel File">
 </p>
+
+Followed tutorial
+https://towardsdatascience.com/plotting-regional-topographic-maps-from-scratch-in-python-8452fd770d9d
